@@ -1,0 +1,733 @@
+@media (max-width: 1440px) {
+    .Best-IT {
+        padding-bottom: 10%;
+    }
+}
+
+@media (max-width: 1025px) {
+    /* header */
+
+    .Best-IT {
+        padding-bottom: 18%;
+    }
+
+    .nav-link {
+        padding: 15px 12px !important;
+    }
+
+    .data-call p {
+        font-size: 14px;
+    }
+
+    .navbar-brand {
+        width: 30%;
+    }
+
+    .navbar-brand img {
+        width: 70%;
+    }
+
+    /* =========== Home ========== */
+
+    /* === best-It === */
+
+    .carousel-item img {
+        object-fit: cover;
+        height: 650px;
+    }
+
+    /* === Provide-Best === */
+
+    .provide-all-data .provide-top-data h1 {
+        font-size: 28px;
+    }
+
+    .provide-top-data .data-p {
+        font-size: 16px !important;
+    }
+
+    .provide-bottom-data .icon-bottom-data {
+        padding-right: 10px;
+    }
+
+    .provide-bottom-data .data p {
+        font-size: 15px;
+        margin: 0 0 16px 0 !important;
+    }
+
+    .provide-bottom-data .data {
+        padding-left: 15px;
+    }
+
+    /* === our-awesome-creative === */
+
+    .our-awesome-top-data h1 {
+        font-weight: 650;
+        font-size: 28px;
+    }
+
+    .our-awesome-row-bottom-data .card-body h4 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    /* === features-case === */
+
+    .features-case-top-alldata h2 {
+        font-size: 35px;
+        font-weight: 700;
+    }
+
+    .ing-card-alldata {
+        width: 220px;
+    }
+
+    /* === our-working-process === */
+
+    .our-working-top-data h2 {
+        font-size: 35px;
+    }
+
+    .our-working-card-buttom-data p {
+        font-size: 15px;
+    }
+
+    .to_make_requests_text h2 {
+        font-size: 28px;
+    }
+
+    .happy_clients {
+        margin-top: -8%;
+    }
+
+    .to_make_requests {
+        padding: 80px 0 15% 0;
+
+    }
+
+    /* === testimonial === */
+
+    .testimonial_top_text h2 {
+        font-size: 35px;
+    }
+
+    /* === get_quote === */
+
+    .get_quote_bottom_text h2 {
+        font-size: 35px;
+    }
+
+    /* === latest_article === */
+
+    .latest_article_top_text h2 {
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+    /* === Footer === */
+
+    .footer_sd_4_text a {
+        font-size: 16px;
+    }
+
+    .footer_sd_4_text p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 981px) {
+    .header-bottom {
+        display: none;
+    }
+}
+
+@media (min-width: 980px) {
+    .header-mobile-bottom {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    /* header */
+
+    .header-top {
+        display: none !important;
+    }
+
+    .navbar-nav>li:hover>.sub_menu {
+        opacity: 0;
+        display: none;
+    }
+
+    .navbar-brand img {
+        width: 70%;
+    }
+
+    /* === home === */
+
+    /* === Best-IT === */
+
+    .Best-IT {
+        padding-bottom: 68%;
+    }
+
+    .it-services-col-6 {
+        width: 50%;
+        margin-bottom: 24px;
+    }
+
+    /* === Provide-Best === */
+
+    .provide-all-data .provide-top-data h1 {
+        font-size: 26px;
+    }
+
+    .provide-top-data .data-p {
+        font-size: 18px !important;
+    }
+
+    .provide-bottom-data .icon-bottom-data {
+        padding-right: 10px;
+    }
+
+    .provide-bottom-data .data {
+        padding-left: 15px;
+    }
+
+    /* === Provide Exclusive Services === */
+
+    .Provide-Exclusive-top-data .col-4 {
+        width: 50%;
+    }
+
+    .Provide-Exclusive-top-data h1 {
+        font-size: 25px;
+        font-weight: 600;
+    }
+
+    /* === our-awesome-creative === */
+
+    .our-awesome-top-button {
+        display: none;
+    }
+
+    .our-awesomecard-all-data {
+        width: 50%;
+        padding-bottom: 24px;
+    }
+
+    /* === our-working-process === */
+
+    .our-working-card-row {
+        justify-content: center;
+    }
+
+    .our-working-card-row .our-working-card-col-4 {
+        width: 50%;
+    }
+
+    /* to_make_requests */
+
+    .to_make_requests {
+        padding: 80px 0 5% 0;
+    }
+
+    .to_make_requests_row {
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .our-working-card-top-data::before {
+        position: absolute;
+        right: -75px;
+        top: 26px;
+        height: 0px !important;
+        width: 130px;
+        content: "";
+        background: #ddd;
+    }
+
+    .to_make_requests_text {
+        text-align: center;
+        padding-bottom: 10%;
+    }
+
+    .to_make_requests_col_3 {
+        text-align: center;
+    }
+
+    .happy_clients {
+        margin: 10% 0 0 0;
+    }
+
+    .happy_clients_col_3 {
+        padding-bottom: 20px;
+        width: 50%;
+    }
+
+    /* === get_quote === */
+
+    .get_quote_col_6 {
+        width: 100%;
+    }
+
+    /* latest_article */
+
+    .latest_article {
+        padding: 80px 0 50px 0;
+    }
+
+    .latest_article_top_row {
+        flex-direction: column;
+    }
+
+    .latest_article_bottom_row {
+        justify-content: space-around;
+    }
+
+    .latest_article_top_text {
+        text-align: center;
+    }
+
+    .latest_article_top_col_3 {
+        display: none;
+    }
+
+    .latest_article_top_text .em_bar_bg {
+        margin: 20px auto;
+    }
+
+    .latest_article_bottom_col_4 {
+        width: 50%;
+        margin-bottom: 24px;
+    }
+
+    /* subscribe_our_newsletter */
+
+    .subscribe_our_newsletter_input input {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    /* === Footer === */
+
+    .footer_top_col_3 {
+        width: 50%;
+    }
+
+    .footer_sd_1_img img {
+        width: 70%;
+    }
+
+    /* ===== About ===== */
+
+    /* WHY_CHOOSE_US */
+
+    .why_choose_us_row {
+        flex-direction: column;
+    }
+
+    .why_choose_us_col_6_1 {
+        width: 100%;
+    }
+
+    .why_choose_us_col_6_2 {
+        width: 100%;
+    }
+
+    /* === about_one_to_make === */
+
+    .about_one_happy_clients {
+        margin-top: 0;
+        padding: 50px;
+    }
+
+    /* === Service One === */
+
+    .pricing_and_plan_bottom_data .row {
+        justify-content: center;
+    }
+
+    .pricing_and_plan_bottom_data .col-4 {
+        width: 50%;
+    }
+
+    /* ===== Contact_us_pages ==== */
+
+    /* === we_are_here === */
+
+    .we_are_here .we_are_here_bottom_row {
+        justify-content: center;
+    }
+
+    .we_are_here .we_are_here_bottom_row .col-4 {
+        width: 50% !important;
+        margin-top: 10px;
+    }
+
+    /* === feel_free_contact === */
+
+    .feel_free_input_row {
+        flex-direction: column;
+    }
+
+    .feel_free_contact_bottom_data .col-6 {
+        width: 100%;
+    }
+
+    /* ====== Blog_details ====== */
+
+    .business_contents_crad .latest_article_bottom_col_4 {
+        width: 100%;
+    }
+
+    .blog_about_post_data .footer_sd_4_bottom_data_1 {
+        flex-direction: column;
+    }
+
+    .blog_about_post_data .footer_sd_4_bottom_data_1 .footer_sd_4_text {
+        width: 100%;
+    }
+
+    .blog_about_instagram_data .col-4 {
+        width: 50%;
+        padding-bottom: 5px;
+    }
+
+    /* ====== Element ====== */
+
+    .Services_Style_bottom_row .col-4 {
+        width: 50%;
+    }
+
+    .Services_Style_2_bottom_data .col-4 {
+        width: 50%;
+    }
+
+    .Services_Style_3_bottom_data .col-4 {
+        width: 50%;
+    }
+
+}
+
+@media (max-width: 426px) {
+    /* header */
+
+
+
+    .header-mobile-bottom .navbar-brand {
+        width: 70%;
+    }
+
+    .navbar-brand img {
+        width: 40%;
+    }
+
+    /* === home === */
+
+    /* === Best-IT === */
+
+    .Provide-Best {
+        padding: 180% 0 5% 0;
+    }
+
+    .Best-IT {
+        padding-bottom: 100%;
+    }
+
+    .it-services-col-6 {
+        width: 100%;
+        margin-bottom: 24px;
+    }
+
+    .carousel-caption {
+        display: block !important;
+    }
+
+    .carousel-caption h5 {
+        font-size: 14px;
+    }
+
+    .carousel-caption h1 {
+        font-size: 25px;
+        line-height: 25px;
+    }
+
+    .carousel-caption .tow {
+        display: none;
+    }
+
+    /* === Provide-Best === */
+
+
+    .provide-best-row {
+        flex-direction: column;
+    }
+
+    .provide-best-col-6 {
+        width: 100%;
+    }
+
+    .provide-top-data .em_bar_bg {
+        margin: 20px auto;
+    }
+
+    /* === Provide Exclusive Services === */
+
+    .Provide-Exclusive-top-data .col-4 {
+        width: 100%;
+    }
+
+    /* === our-awesome-creative === */
+
+    .our-awesome-creative {
+        padding: 20% 0 10% 0;
+    }
+
+    .our-awesomecard-all-data {
+        width: 100%;
+        padding-bottom: 24px;
+    }
+
+    .our-awesome-top-data h1 {
+        font-size: 21px;
+    }
+
+    .our-awesome-top-data .em_bar_bg {
+        margin: 2% auto;
+    }
+
+    /* === our-working-process === */
+
+    .our-working-top-data h2 {
+        font-size: 21px;
+    }
+
+    .our-working-card-row .col-4 {
+        width: 100%;
+        padding: 10% 0;
+    }
+
+    /* to_make_requests */
+
+    .to_make_requests_text {
+        padding-bottom: 25%;
+    }
+
+    .to_make_requests {
+        padding: 80px 0 20% 0;
+    }
+
+    .happy_clients_col_3 {
+        width: 100%;
+    }
+
+    /* === testimonial === */
+
+    .testimonial_top_text h2 {
+        font-size: 21px;
+        font-weight: 650;
+    }
+
+    /* === get_quote === */
+
+    .get_quote_bottom_text h2 {
+        font-size: 21px;
+    }
+
+    /* latest_article */
+
+    .latest_article_top_text h2 {
+        font-size: 21px;
+    }
+
+    .latest_article_bottom_col_4 {
+        width: 100%;
+    }
+
+    /* === Footer === */
+
+    .footer_top_col_3 {
+        width: 100%;
+    }
+
+    .footer_bottom_row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer_bottom_col_6_1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer_bottom_col_6_2 {
+        text-align: center;
+        width: 100%;
+    }
+
+    .footer_sd_1_img img {
+        width: 60%;
+    }
+
+    /* ===== about ===== */
+
+    /* === About Provide Best === */
+
+    .About_provide_best_top_text p {
+        font-size: 22px !important;
+    }
+
+    /* === about_one_to_make === */
+
+    .about_one_happy_clients {
+        padding: 50px 0;
+    }
+
+    /* === clients_says === */
+
+    .choose_us_top_data_text {
+        text-align: center;
+    }
+
+    .choose_us_top_data_text .em_bar_bg {
+        margin: 20px auto;
+    }
+
+    .choose_us_top_data_text h6 {
+        font-size: 15px;
+    }
+
+    .choose_us_top_data_text h2 {
+        font-size: 21px;
+    }
+
+    .clients_says_bottom_data {
+        width: 100%;
+    }
+
+    .clients_says_bottom_all_data {
+        width: 90%;
+    }
+
+    /* === about_one_brand_icon === */
+
+    .about_one_brand_icon .item {
+        display: flex;
+        justify-content: center;
+    }
+
+    /* === Service One === */
+
+    .pricing_and_plan_bottom_data .row {
+        justify-content: center;
+    }
+
+    .pricing_and_plan_bottom_data .col-4 {
+        width: 100%;
+    }
+
+    /* ===== Contact_us_pages ==== */
+
+    /* === we_are_here === */
+
+    .we_are_here .we_are_here_bottom_row .col-4 {
+        width: 90% !important;
+    }
+
+    /* ====== Blog_details ====== */
+
+    .all_section .all_section_row {
+        flex-direction: column;
+    }
+
+    .all_section .all_section_row .all_section_col_8 {
+        width: 100%;
+    }
+
+    .all_section .all_section_row .all_section_col_4 {
+        width: 100%;
+    }
+
+    .business_contents_input .feel_free_input_row .col-6 {
+        width: 100%;
+    }
+
+    /* ====== Element ====== */
+
+    .Services_Style_bottom_row {
+        justify-content: center;
+    }
+
+    .Services_Style_bottom_row .col-4 {
+        width: 90%;
+    }
+
+    .Services_Style_2_bottom_data .row {
+        justify-content: center;
+    }
+
+    .Services_Style_2_bottom_data .col-4 {
+        width: 90%;
+    }
+
+    .Services_Style_3_bottom_data .col-4 {
+        width: 90%;
+    }
+
+    .Services_Style_3_bottom_data .row {
+        justify-content: center;
+    }
+
+}
+
+@media (max-width: 376px) {
+    /* header */
+
+    .Provide-Best {
+        padding: 218% 0 5% 0;
+    }
+
+    .Best-IT {
+        padding-bottom: 100%;
+    }
+
+    .header-mobile-bottom .navbar-brand {
+        width: 50% !important;
+    }
+
+    /* footer */
+
+    .footer_sd_1_img img {
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 320px) {
+
+    /* header */
+
+    .Provide-Best {
+        padding: 272% 0 5% 0;
+    }
+
+    .Best-IT {
+        padding-bottom: 100%;
+    }
+
+    .header-mobile-bottom .navbar-brand {
+        width: 60%;
+    }
+
+    .carousel-item img {
+        object-fit: cover;
+        height: 450px;
+    }
+
+    /* footer */
+
+    .footer_sd_1_img img {
+        width: 80%;
+    }
+}
